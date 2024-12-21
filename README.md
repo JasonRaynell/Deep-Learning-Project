@@ -1,2 +1,2 @@
 # Deep-Learning-Project
-Optimize Matrix Multiplication inC
+Optimize Matrix Multiplication in C
