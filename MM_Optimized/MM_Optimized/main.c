@@ -1,6 +1,6 @@
 //
 //  main.c
-//  DeepLearningProject
+//  MM_Optimized
 //
 //  Created by Jason Raynell on 10/12/24.
 //
